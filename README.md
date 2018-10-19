@@ -5,6 +5,6 @@ Each lecture demo is written with the purpose of providing a graphical visual mo
 
 # Topics
 
-* Week 2: z-transform, poles and zeros, inverse z-transform \\
-* Week 4: Fourier transform, discrete-time Fourier transform, sinusoidal signals \\
+* Week 2: z-transform, poles and zeros, inverse z-transform
+* Week 4: Fourier transform, discrete-time Fourier transform, sinusoidal signals 
 * Week 8: Discrete Fourier transform, spectral analysis
